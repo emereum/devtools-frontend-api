@@ -1,0 +1,9 @@
+{
+  "name": "devtools-frontend-api",
+  "version": "1.0.0",
+  "author": "emereum",
+  "license": "MIT",
+  "scripts": {
+    "setup_lib": "./setup_lib.sh && cp -r ./lib/devtools-frontend/out/Default/gen/front_end ./dist"
+  }
+}

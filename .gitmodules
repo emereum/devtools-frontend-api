@@ -1,0 +1,6 @@
+[submodule "lib/devtools-frontend"]
+	path = lib/devtools-frontend
+	url = https://chromium.googlesource.com/devtools/devtools-frontend
+[submodule "lib/depot_tools"]
+	path = lib/depot_tools
+	url = https://chromium.googlesource.com/chromium/tools/depot_tools
