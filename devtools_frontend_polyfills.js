@@ -1,5 +1,7 @@
 // Create stubs for globals accessed by devtools_frontend
-global.location = {};
+global.location = {
+  href: 'http://localhost'
+};
 
 // codemirror
 global.self = global;
